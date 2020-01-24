@@ -1,2 +1,2 @@
 # HwApp
-Version 1.1.2 ==> tasted [Done]
+Version 1.1.2 ==> tested [Done]
