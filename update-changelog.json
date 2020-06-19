@@ -3,6 +3,15 @@
   "latestVersionCode": "30",
   "url": "https://bit.ly/3dfgspU",
   "releaseNotes": [
-    "Update 3.1 is available to download. By downloading the latest update you will get the latest features, improvements and bug fixes for HwTV."
+    "Update 3.5 is available to download. 
+    Features:: 
+    - Multi Audio Supported in Player
+    - Report Feature
+    - Auto Download and Install Future Updates
+    - Some UI Chnaged
+    - Security Enhancement
+    - Memory Leak Fixes
+    - All Known Bug Fixes
+    - Optimized the App."
   ]
 }
